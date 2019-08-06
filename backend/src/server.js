@@ -9,5 +9,5 @@ mongoose.connect('mongodb+srv://bgpaula:123456aa@cluster-first-extg2.gcp.mongodb
 });
 server.use(express.json());
 server.use(routes);
-server.listen(3636);
+server.listen(3333);
 
