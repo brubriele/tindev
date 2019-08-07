@@ -2,4 +2,4 @@
 
 Aplicação em NodeJS, React e Native no mobile.
 
-Exercício de desenvolvimento proposto na Semana OminiStack - RocketSeat
+Exercício de desenvolvimento proposto na Semana OmniStack - RocketSeat
