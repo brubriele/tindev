@@ -5,5 +5,8 @@
   "license": "MIT",
   "scripts": {
     "dev": "nodemon src/server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5"
   }
 }
