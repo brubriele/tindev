@@ -1,7 +1,7 @@
 const express = require('express');
-const DevController = require('../src/controllers/DevController');
-const LikeController = require('../src/controllers/LikeController');
-const DislikeController = require('../src/controllers/DislikeController');
+const DevController = require('./controllers/DevController');
+const LikeController = require('./controllers/LikeController');
+const DislikeController = require('./controllers/DislikeController');
 
 
 const routes =  express.Router();
